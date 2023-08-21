@@ -1,0 +1,5 @@
+Baked Beans 55 15
+Potatoes 84 6
+Orange Juice 99 4
+Milk 120 30
+Bread 110 22

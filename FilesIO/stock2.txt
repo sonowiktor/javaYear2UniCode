@@ -1,0 +1,9 @@
+<Baked Beans><55><15>
+<Potatoes><84><6>
+<Orange Juice><99><4>
+<Milk><120><30>
+<Bread><110><22>
+<end>
+
+//note - you may move <end> up to only obtain a subset of the elements, e.g.
+if you move it to line 3, then you will only read in Baked Beans and Potatoes
