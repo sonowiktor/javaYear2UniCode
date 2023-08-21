@@ -1,0 +1,24 @@
+/* JavaFX CSS - Style sheet for counter pane */
+.counter-pane {
+	-fx-padding:30;
+	-fx-spacing:30;
+	-fx-alignment:center;
+	-fx-background-color:aliceblue;
+}
+
+.label {
+ 	-fx-pref-width:80px;
+ 	-fx-pref-height:50px;
+ 	-fx-alignment:center;
+ 	-fx-font-size:20pt;
+ 	-fx-text-fill:white;
+ 	-fx-background-color:blue;
+ 	-fx-background-radius: 10px;
+ }
+ 
+ .button {
+	-fx-pref-width:50px;
+ 	-fx-pref-height:50px;
+ 	-fx-font-size:16pt;
+ 	-fx-font-weight:bold;
+ }
